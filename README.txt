@@ -12,5 +12,3 @@ pip install esm
 pip install Bio
 pip install matplotlib
 pip install pandas==2.2.2 
-
-
