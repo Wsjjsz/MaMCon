@@ -1,4 +1,4 @@
-#MaMCon Environment Configuration:
+MaMCon Environment Configuration:
 conda create -n MaMCon python=3.10.13
 conda activate MaMCon
 conda install cudatoolkit==11.8 -c nvidia
