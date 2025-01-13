@@ -1,4 +1,5 @@
-# MaMCon: Protein Contact Prediction
+# MaMCon: Protein Contact Prediction Based on Mamba and Triangle Rule Constraints
+  
 ![image](png/Protein.png)
 # Installation
 > Clone the repository and install it:https://github.com/Wsjjsz/MaMCon.git
