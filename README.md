@@ -1,8 +1,7 @@
 # MaMCon: Protein Contact Prediction
-![test.png](..%2F..%2FNova_fig%2FMaMCon_Nova%2Ftest.png)
+<img alt="test.png" src="..%2F..%2FNova_fig%2FMaMCon_Nova%2Ftest.png"/>
 # Installation
-Clone the repository and install it:
-https://github.com/Wsjjsz/MaMCon.git
+> Clone the repository and install it:https://github.com/Wsjjsz/MaMCon.git
 # MaMCon Environment Configuration:
 > conda create -n MaMCon python=3.10.13
 > 
