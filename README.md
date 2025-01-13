@@ -1,4 +1,4 @@
-# MaMCon: Protein Contact Prediction Based on Mamba and Triangle Rule Constraints
+# MaMCon: Protein Contact Prediction
   
 ![image](png/Protein.png)
 # Installation
