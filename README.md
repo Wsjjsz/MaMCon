@@ -1,5 +1,5 @@
 # MaMCon: Protein Contact Prediction
-<img alt="test.png" src="..%2F..%2FNova_fig%2FMaMCon_Nova%2Ftest.png"/>
+![image](png/test.png)
 # Installation
 > Clone the repository and install it:https://github.com/Wsjjsz/MaMCon.git
 # MaMCon Environment Configuration:
