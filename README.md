@@ -2,8 +2,9 @@
   
 ![image](png/Protein.png)
 # Installation
-> Clone the repository and install it:https://github.com/Wsjjsz/MaMCon.git
+> Clone the repository and install it:  https://github.com/Wsjjsz/MaMCon.git
 # MaMCon Environment Configuration:
+> 
 > conda create -n MaMCon python=3.10.13
 > 
 > conda activate MaMCon
