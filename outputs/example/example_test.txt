@@ -1,0 +1,24 @@
+  ----------- 2QUD  ------------
+  test 1 accuracy:		100.0%
+  test 10 accuracy:		100.0%
+  test 25 accuracy:		100.0%
+  test 50 accuracy:		92.0%
+  test L/10 accuracy:		100.0%
+  test L/5 accuracy:		100.0%
+  test L/2 accuracy:		90.3%
+  test L/1 accuracy:		84.0%
+  test 100 accuracy:		90.0%
+  test cov accuracy:		62.4%
+
+  ----------- 2IA0  ------------
+  test 1 accuracy:		100.0%
+  test 10 accuracy:		100.0%
+  test 25 accuracy:		100.0%
+  test 50 accuracy:		100.0%
+  test L/10 accuracy:		100.0%
+  test L/5 accuracy:		100.0%
+  test L/2 accuracy:		100.0%
+  test L/1 accuracy:		93.0%
+  test 100 accuracy:		99.0%
+  test cov accuracy:		78.1%
+
