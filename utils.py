@@ -154,9 +154,8 @@ def TopAccuracy(pred=None, truth=None, mask=None, top=["L/1", "L/2", "L/5", "L/1
     avg_pred = pred
     pred_truth = np.dstack((avg_pred, truth))
 
-    mask1 = np.triu(mask, gap)
-    mask2 = np.tril(mask, -gap)
-    mask = mask1 + mask2
+    mask = np.triu(mask, gap)
+  
     res = pred_truth[(mask > 0) & (truth >= 0)]
     cov = pred_truth[(mask > 0) & (truth >= 1)]
     Tn = len(cov)
@@ -287,4 +286,5 @@ def eval(args, model, eval_list, path_eval_file, isprint=False,is_test=True):
         for i in metric:
             metric[i] = metric[i].item()
     return metric
+
 
